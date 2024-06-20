@@ -1,0 +1,18 @@
+[
+    {
+        "gameId": 1,
+        "dailyTasksId": 1
+    },
+    {
+        "gameId": 2,
+        "dailyTasksId": 2
+    },
+    {
+        "gameId": 3,
+        "dailyTasksId": 3
+    },
+    {
+        "gameId": 4,
+        "dailyTasksId": 4
+    }
+]
